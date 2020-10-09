@@ -1,1 +1,2 @@
-a = input("Hello World")
+a = input("Hello World!")
+# This is a simple hello world
