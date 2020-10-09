@@ -1,2 +1,3 @@
-a = input("Hello World!")
-# This is a simple hello world
+a = ("Hello World!")
+print(a)
+# I have updated the repo
